@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech/BabyTech.csproj": {}
+  },
+  "projects": {
+    "/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech/BabyTech.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech/BabyTech.csproj",
+        "projectName": "BabyTech",
+        "projectPath": "/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech/BabyTech.csproj",
+        "packagesPath": "/Users/alyssaandrade/.nuget/packages/",
+        "outputPath": "/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alyssaandrade/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AWSSDK.CognitoIdentity": {
+              "target": "Package",
+              "version": "[3.5.2.6, )"
+            },
+            "AWSSDK.CognitoIdentityProvider": {
+              "target": "Package",
+              "version": "[3.5.1.23, )"
+            },
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.5.2.5, )"
+            },
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.5.4.24, )"
+            },
+            "AWSSDK.Rekognition": {
+              "target": "Package",
+              "version": "[3.5.2.38, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.5.8, )"
+            },
+            "Amazon.Extensions.CognitoAuthentication": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1-beta1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.1931, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

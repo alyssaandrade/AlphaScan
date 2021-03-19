@@ -1,0 +1,1318 @@
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/bin/Debug/BabyTech.Android.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/bin/Debug/BabyTech.Android.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/bin/Debug/com.companyname.babytech.apk
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/bin/Debug/com.companyname.babytech.aab
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/bin/Debug/com.companyname.babytech-Signed.aab
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/bin/Debug/com.companyname.babytech-Signed.apk
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/bin/Debug/com.companyname.babytech-Signed.apk.idsig
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/bin/Debug/BabyTech.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/bin/Debug/BabyTech.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/build.props
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/adb.props
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/BabyTech.Android.csprojAssemblyReference.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res.flag
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/43/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/44/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/50/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/53/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/54/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/61/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/62/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/66/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/67/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/69/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/70/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/71/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/72/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/73/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/74/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/77/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/85/jl/files.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/R.txt
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/R.cs.flag
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/BabyTech.Android.csproj.CoreCompileInputs.cache
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/BabyTech.Android.csproj.CopyComplete
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/BabyTech.Android.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/BabyTech.Android.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/bin/com.companyname.babytech.apk
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/bin/base.zip
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/bin/com.companyname.babytech.aab
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/bin/com.companyname.babytech.apks
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/layout/tabbar.xml
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/layout/toolbar.xml
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/values/styles.xml
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/values/colors.xml
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-anydpi-v26/icon.xml
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-hdpi/launcher_foreground.png
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-mdpi/launcher_foreground.png
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-xhdpi/launcher_foreground.png
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-xxhdpi/launcher_foreground.png
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-xxxhdpi/launcher_foreground.png
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-hdpi/logo.png
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/drawable/logo.jpg
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-mdpi/logo.png
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-xhdpi/logo.png
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-xxhdpi/logo.png
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-xxxhdpi/logo.png
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/uploadflags.txt
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/resolvedassemblies.hash
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Amazon.Extensions.CognitoAuthentication.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.CognitoIdentity.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.CognitoIdentity.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.CognitoIdentityProvider.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.CognitoIdentityProvider.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.Core.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.Core.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.DynamoDBv2.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.DynamoDBv2.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.Rekognition.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.Rekognition.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.S3.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.S3.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.SecurityToken.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.SecurityToken.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/BabyTech.Android.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/BabyTech.Android.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/BabyTech.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/BabyTech.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/FormsViewGroup.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/FormsViewGroup.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Java.Interop.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Mono.Android.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Mono.Android.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Mono.Security.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Mono.Security.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/mscorlib.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/mscorlib.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/netstandard.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Newtonsoft.Json.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.ComponentModel.Composition.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Core.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Core.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Data.DataSetExtensions.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Data.DataSetExtensions.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Data.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Data.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Drawing.Common.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Drawing.Common.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.IO.Compression.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.IO.Compression.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Net.Http.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Net.Http.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Numerics.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Numerics.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Numerics.Vectors.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Numerics.Vectors.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Runtime.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Runtime.Serialization.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.ServiceModel.Internals.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Threading.Tasks.Extensions.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Transactions.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Transactions.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Web.Services.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Web.Services.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Xml.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Xml.Linq.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Xml.Linq.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Xml.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Activity.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Activity.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Annotation.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Annotation.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Common.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Common.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Runtime.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Runtime.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AsyncLayoutInflater.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AsyncLayoutInflater.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Browser.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Browser.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CardView.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CardView.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Collection.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Collection.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CoordinatorLayout.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CoordinatorLayout.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Core.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Core.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CursorAdapter.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CursorAdapter.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CustomView.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CustomView.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.DocumentFile.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.DocumentFile.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.DrawerLayout.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.DrawerLayout.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Fragment.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Fragment.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Interpolator.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Interpolator.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.V4.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.V4.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Common.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Common.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Runtime.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Runtime.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModel.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Loader.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Loader.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.LocalBroadcastManager.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.LocalBroadcastManager.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Media.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Media.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.MultiDex.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.MultiDex.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Print.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Print.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.RecyclerView.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.RecyclerView.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SavedState.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SavedState.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SlidingPaneLayout.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SlidingPaneLayout.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SwipeRefreshLayout.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SwipeRefreshLayout.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Transition.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Transition.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.Animated.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.Animated.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VersionedParcelable.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VersionedParcelable.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager2.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager2.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Essentials.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Essentials.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Core.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Google.Android.Material.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Google.Android.Material.pdb
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Google.Guava.ListenableFuture.dll
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.arm64-v8a.s
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.armeabi-v7a.s
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.x86.s
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.x86_64.s
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.armeabi-v7a-shared.inc
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.shared.inc
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/AndroidManifest.xml
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/AndroidManifest.xml
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/__environment__.txt
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/MonoRuntimeProvider.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/machine.config
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/bin/mono.android.jar
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/static.flag
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/buildid.txt
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.arm64-v8a.s
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.armeabi-v7a.s
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.x86.s
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.x86_64.s
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/appcompat/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/appcompat/resources/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/appcompat/widget/Toolbar_NavigationOnClickEventDispatcher.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/browser/customtabs/CustomTabsClient_CustomTabsCallbackImpl.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/browser/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/cardview/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/coordinatorlayout/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/core/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/drawerlayout/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/fragment/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/media/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/recyclerview/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/savedstate/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/swiperefreshlayout/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/transition/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/viewpager2/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/com/google/android/material/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/com/google/android/material/snackbar/Snackbar_SnackbarActionClickImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc6414252951f3f66c67/CarouselViewAdapter_2.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc6414252951f3f66c67/RecyclerViewScrollListener_2.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64396a3fe5f8138e3f/CustomTabsServiceConnectionImpl.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64396a3fe5f8138e3f/KeepAliveService.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ActionSheetRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ActivityIndicatorRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/AHorizontalScrollView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/AndroidActivity.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/BaseCellView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/BorderDrawable.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/BoxRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ButtonRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ButtonRenderer_ButtonClickListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ButtonRenderer_ButtonTouchListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselPageAdapter.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselPageRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselSpacingItemDecoration.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselViewRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselViewRenderer_CarouselViewOnScrollListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CellAdapter.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CellRenderer_RendererHolder.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CenterSnapHelper.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CheckBoxDesignerRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CheckBoxRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CheckBoxRendererBase.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CircularProgress.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CollectionViewRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ColorChangeRevealDrawable.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ConditionalFocusLayout.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ContainerView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CustomFrameLayout.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DataChangeObserver.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DatePickerRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DatePickerRendererBase_1.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DragAndDropGestureHandler.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DragAndDropGestureHandler_CustomLocalStateData.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EditorEditText.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EditorRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EditorRendererBase_1.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EllipseRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EllipseView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EmptyViewAdapter.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EndSingleSnapHelper.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EndSnapHelper.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryAccessibilityDelegate.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryCellEditText.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryCellView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryEditText.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryRendererBase_1.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FlyoutPageContainer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FlyoutPageRendererNonAppCompat.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormattedStringExtensions_FontSpan.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormattedStringExtensions_LineHeightSpan.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormattedStringExtensions_TextDecorationSpan.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsAnimationDrawable.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsAppCompatActivity.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsApplicationActivity.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsEditText.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsImageView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsSeekBar.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsTextView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsVideoView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsWebChromeClient.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsWebViewClient.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FrameRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FrameRenderer_FrameDrawable.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GenericGlobalLayoutListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GenericMenuClickListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GradientStrokeDrawable.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GradientStrokeDrawable_GradientShaderFactory.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GridLayoutSpanSizeLookup.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GroupableItemsViewAdapter_2.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GroupableItemsViewRenderer_3.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GroupedListViewAdapter.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageButtonRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageCache_CacheEntry.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageCache_FormsLruCache.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/IndicatorViewRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/InnerGestureListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/InnerScaleListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ItemContentView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ItemsViewRenderer_3.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LabelRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LineRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LineView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer_Container.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LocalizedDigitsKeyListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/MasterDetailContainer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NativeViewWrapperRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NavigationRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NongreedySnapHelper.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NongreedySnapHelper_InitialScrollListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ObjectJavaBox_1.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/OpenGLViewRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/OpenGLViewRenderer_Renderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageContainer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageExtensions_EmbeddedFragment.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageExtensions_EmbeddedSupportFragment.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PathRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PathView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PickerEditText.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PickerManager_PickerListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PickerRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PlatformRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/Platform_DefaultRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolygonRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolygonView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolylineRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolylineView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PositionalSmoothScroller.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PowerSaveModeBroadcastReceiver.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ProgressBarRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RadioButtonRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RectangleRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RectView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RecyclerViewContainer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RefreshViewRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollHelper.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollLayoutManager.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollViewContainer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollViewRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SearchBarRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SelectableItemsViewAdapter_2.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SelectableViewHolder.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShapeRenderer_2.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShapeView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellContentFragment.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutLayout.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRecyclerAdapter.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutTemplatedContentRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFragmentPagerAdapter.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellItemRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellPageContainer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellRenderer_SplitDrawable.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchViewAdapter.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchViewAdapter_CustomFilter.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchViewAdapter_ObjectWrapper.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchView_ClipDrawableWrapper.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSectionRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellToolbarTracker.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SimpleViewHolder.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SingleSnapHelper.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SizedItemContentView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SliderRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SpacingItemDecoration.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StartSingleSnapHelper.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StartSnapHelper.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StepperRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StepperRendererManager_StepperListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StructuredItemsViewAdapter_2.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StructuredItemsViewRenderer_3.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SwipeViewRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SwitchCellView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SwitchRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TabbedRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TableViewRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TemplatedItemViewHolder.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TextCellRenderer_TextCellView.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TextViewHolder.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TimePickerRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TimePickerRendererBase_1.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewRenderer_2.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/VisualElementRenderer_1.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/VisualElementTracker_AttachTracker.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/WebViewRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/WebViewRenderer_JavascriptResult.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/CarouselPageRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FormsFragmentPagerAdapter_1.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FormsViewPager.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FragmentContainer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FrameRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer_ClickListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer_Container.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer_DrawerMultiplexedListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/PickerRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/Platform_ModalContainer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ShellFragmentContainer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/SwitchRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ViewRenderer_2.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/AccelerometerListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ActivityLifecycleContextListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/BarometerListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/BatteryBroadcastReceiver.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ClipboardChangeListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ConnectivityBroadcastReceiver.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/EnergySaverBroadcastReceiver.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/GyroscopeListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/IntermediateActivity.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/Listener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/MagnetometerListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/OrientationSensorListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/SensorListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/SingleLocationListener.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/WebAuthenticatorCallbackActivity.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/WebAuthenticatorIntermediateActivity.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/FloatArrayEvaluator.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/TransitionUtils.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/TransitionUtils_MatrixEvaluator.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64dda61ef84501c2d9/MainActivity.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64ee486da937c010f4/ButtonRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64ee486da937c010f4/FrameRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64ee486da937c010f4/ImageRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64ee486da937c010f4/LabelRenderer.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/android/app/ApplicationRegistration.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/android/support/v4/media/session/MediaSessionCompat_OnActiveChangeListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/app/ActionBar_OnMenuVisibilityListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/app/ActionBar_OnNavigationListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/app/ActionBar_TabListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ActionMenuView_OnMenuItemClickListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ContentFrameLayout_OnAttachListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/MenuItemHoverListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/PopupMenu_OnDismissListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/PopupMenu_OnMenuItemClickListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/SearchView_OnCloseListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/SearchView_OnQueryTextListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/SearchView_OnSuggestionListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/Toolbar_OnMenuItemClickListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ViewStubCompat_OnInflateListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/asynclayoutinflater/view/AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/app/SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/os/CancellationSignal_OnCancelListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/accessibility/AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/accessibility/AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/ActionProvider_SubUiVisibilityListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/ActionProvider_VisibilityListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/DragStartHelper_OnDragStartListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/inputmethod/InputConnectionCompat_OnCommitContentListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/MenuItemCompat_OnActionExpandListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/OnApplyWindowInsetsListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/ViewPropertyAnimatorListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/ViewPropertyAnimatorUpdateListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/widget/NestedScrollView_OnScrollChangeListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/drawerlayout/widget/DrawerLayout_DrawerListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/fragment/app/FragmentManager_OnBackStackChangedListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/loader/content/Loader_OnLoadCanceledListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/loader/content/Loader_OnLoadCompleteListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/AsyncListDiffer_ListListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_OnItemTouchListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_RecyclerListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/slidingpanelayout/widget/SlidingPaneLayout_PanelSlideListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/swiperefreshlayout/widget/SwipeRefreshLayout_OnRefreshListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/transition/Transition_TransitionListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/viewpager/widget/ViewPager_OnAdapterChangeListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/viewpager/widget/ViewPager_OnPageChangeListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/appbar/AppBarLayout_OnOffsetChangedListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/behavior/SwipeDismissBehavior_OnDismissListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/bottomnavigation/BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/bottomnavigation/BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/button/MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/button/MaterialButton_OnCheckedChangeListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/card/MaterialCardView_OnCheckedChangeListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/chip/ChipGroup_OnCheckedChangeListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/datepicker/MaterialPickerOnPositiveButtonClickListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/internal/ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/navigation/NavigationView_OnNavigationItemSelectedListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/shape/ShapeAppearancePathProvider_PathListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/tabs/TabLayout_BaseOnTabSelectedListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/textfield/TextInputLayout_OnEditTextAttachedListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/textfield/TextInputLayout_OnEndIconChangedListenerImplementor.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/MonoPackageManager_Resources.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/xamarin/essentials/fileProvider.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/bin/packaged_resources
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/com/companyname/babytech/R.java
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.arm64-v8a.s
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.armeabi-v7a.s
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.x86.s
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.x86_64.s
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.arm64-v8a.o
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.armeabi-v7a.o
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.x86.o
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.x86_64.o
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.arm64-v8a.o
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.armeabi-v7a.o
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.x86.o
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.x86_64.o
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.arm64-v8a.o
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.armeabi-v7a.o
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.x86.o
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.x86_64.o
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/app_shared_libraries/arm64-v8a/libxamarin-app.so
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/app_shared_libraries/armeabi-v7a/libxamarin-app.so
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/app_shared_libraries/x86/libxamarin-app.so
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/app_shared_libraries/x86_64/libxamarin-app.so
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/bin/classes.dex
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_CleanIntermediateIfNeeded.stamp
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_CompileToDalvik.stamp
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_ConvertCustomView.stamp
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_ConvertResourcesCases.stamp
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
+/Users/alyssaandrade/Downloads/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/bin/Debug/BabyTech.Android.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/bin/Debug/BabyTech.Android.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/bin/Debug/com.companyname.babytech.apk
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/bin/Debug/com.companyname.babytech.aab
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/bin/Debug/com.companyname.babytech-Signed.aab
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/bin/Debug/com.companyname.babytech-Signed.apk
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/bin/Debug/com.companyname.babytech-Signed.apk.idsig
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/bin/Debug/BabyTech.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/bin/Debug/BabyTech.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/build.props
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/adb.props
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/BabyTech.Android.csprojAssemblyReference.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res.flag
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/43/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/44/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/50/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/53/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/54/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/61/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/62/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/66/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/67/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/69/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/70/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/71/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/72/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/73/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/74/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/77/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/lp/85/jl/files.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/R.txt
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/R.cs.flag
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/BabyTech.Android.csproj.CoreCompileInputs.cache
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/BabyTech.Android.csproj.CopyComplete
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/BabyTech.Android.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/BabyTech.Android.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/bin/com.companyname.babytech.apk
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/bin/base.zip
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/bin/com.companyname.babytech.aab
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/bin/com.companyname.babytech.apks
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/layout/tabbar.xml
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/layout/toolbar.xml
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/values/styles.xml
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/values/colors.xml
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-anydpi-v26/icon.xml
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-hdpi/launcher_foreground.png
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-mdpi/launcher_foreground.png
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-xhdpi/launcher_foreground.png
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-xxhdpi/launcher_foreground.png
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-xxxhdpi/launcher_foreground.png
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-hdpi/logo.png
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/drawable/logo.jpg
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-mdpi/logo.png
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-xhdpi/logo.png
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-xxhdpi/logo.png
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/res/mipmap-xxxhdpi/logo.png
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/uploadflags.txt
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/resolvedassemblies.hash
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Amazon.Extensions.CognitoAuthentication.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.CognitoIdentity.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.CognitoIdentity.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.CognitoIdentityProvider.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.CognitoIdentityProvider.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.Core.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.Core.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.DynamoDBv2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.DynamoDBv2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.Rekognition.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.Rekognition.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.S3.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.S3.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.SecurityToken.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.SecurityToken.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/BabyTech.Android.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/BabyTech.Android.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/BabyTech.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/BabyTech.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/FormsViewGroup.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/FormsViewGroup.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Java.Interop.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Mono.Android.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Mono.Android.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Mono.Security.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Mono.Security.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/mscorlib.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/mscorlib.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/netstandard.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Newtonsoft.Json.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.ComponentModel.Composition.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Core.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Core.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Data.DataSetExtensions.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Data.DataSetExtensions.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Data.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Data.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Drawing.Common.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Drawing.Common.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.IO.Compression.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.IO.Compression.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Net.Http.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Net.Http.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Numerics.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Numerics.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Numerics.Vectors.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Numerics.Vectors.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Runtime.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Runtime.Serialization.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.ServiceModel.Internals.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Threading.Tasks.Extensions.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Transactions.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Transactions.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Web.Services.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Web.Services.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Xml.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Xml.Linq.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Xml.Linq.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Xml.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Activity.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Activity.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Annotation.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Annotation.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Common.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Common.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Runtime.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Runtime.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AsyncLayoutInflater.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AsyncLayoutInflater.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Browser.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Browser.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CardView.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CardView.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Collection.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Collection.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CoordinatorLayout.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CoordinatorLayout.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Core.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Core.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CursorAdapter.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CursorAdapter.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CustomView.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CustomView.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.DocumentFile.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.DocumentFile.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.DrawerLayout.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.DrawerLayout.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Fragment.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Fragment.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Interpolator.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Interpolator.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.V4.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.V4.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Common.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Common.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Runtime.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Runtime.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModel.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Loader.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Loader.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.LocalBroadcastManager.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.LocalBroadcastManager.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Media.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Media.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.MultiDex.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.MultiDex.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Print.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Print.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.RecyclerView.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.RecyclerView.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SavedState.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SavedState.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SlidingPaneLayout.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SlidingPaneLayout.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SwipeRefreshLayout.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SwipeRefreshLayout.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Transition.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Transition.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.Animated.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.Animated.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VersionedParcelable.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VersionedParcelable.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Essentials.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Essentials.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Core.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Google.Android.Material.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Google.Android.Material.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Google.Guava.ListenableFuture.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.arm64-v8a.s
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.armeabi-v7a.s
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.x86.s
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.x86_64.s
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.armeabi-v7a-shared.inc
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.shared.inc
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/AndroidManifest.xml
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/AndroidManifest.xml
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/__environment__.txt
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/MonoRuntimeProvider.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/machine.config
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/bin/mono.android.jar
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/static.flag
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/buildid.txt
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.arm64-v8a.s
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.armeabi-v7a.s
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.x86.s
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.x86_64.s
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/appcompat/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/appcompat/resources/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/appcompat/widget/Toolbar_NavigationOnClickEventDispatcher.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/browser/customtabs/CustomTabsClient_CustomTabsCallbackImpl.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/browser/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/cardview/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/coordinatorlayout/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/core/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/drawerlayout/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/fragment/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/media/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/recyclerview/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/savedstate/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/swiperefreshlayout/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/transition/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/viewpager2/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/com/google/android/material/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/com/google/android/material/snackbar/Snackbar_SnackbarActionClickImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc6414252951f3f66c67/CarouselViewAdapter_2.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc6414252951f3f66c67/RecyclerViewScrollListener_2.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64396a3fe5f8138e3f/CustomTabsServiceConnectionImpl.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64396a3fe5f8138e3f/KeepAliveService.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ActionSheetRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ActivityIndicatorRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/AHorizontalScrollView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/AndroidActivity.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/BaseCellView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/BorderDrawable.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/BoxRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ButtonRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ButtonRenderer_ButtonClickListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ButtonRenderer_ButtonTouchListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselPageAdapter.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselPageRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselSpacingItemDecoration.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselViewRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselViewRenderer_CarouselViewOnScrollListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CellAdapter.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CellRenderer_RendererHolder.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CenterSnapHelper.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CheckBoxDesignerRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CheckBoxRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CheckBoxRendererBase.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CircularProgress.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CollectionViewRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ColorChangeRevealDrawable.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ConditionalFocusLayout.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ContainerView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CustomFrameLayout.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DataChangeObserver.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DatePickerRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DatePickerRendererBase_1.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DragAndDropGestureHandler.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/DragAndDropGestureHandler_CustomLocalStateData.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EditorEditText.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EditorRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EditorRendererBase_1.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EllipseRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EllipseView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EmptyViewAdapter.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EndSingleSnapHelper.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EndSnapHelper.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryAccessibilityDelegate.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryCellEditText.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryCellView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryEditText.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EntryRendererBase_1.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FlyoutPageContainer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FlyoutPageRendererNonAppCompat.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormattedStringExtensions_FontSpan.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormattedStringExtensions_LineHeightSpan.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormattedStringExtensions_TextDecorationSpan.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsAnimationDrawable.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsAppCompatActivity.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsApplicationActivity.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsEditText.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsImageView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsSeekBar.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsTextView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsVideoView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsWebChromeClient.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsWebViewClient.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FrameRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FrameRenderer_FrameDrawable.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GenericGlobalLayoutListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GenericMenuClickListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GradientStrokeDrawable.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GradientStrokeDrawable_GradientShaderFactory.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GridLayoutSpanSizeLookup.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GroupableItemsViewAdapter_2.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GroupableItemsViewRenderer_3.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/GroupedListViewAdapter.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageButtonRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageCache_CacheEntry.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageCache_FormsLruCache.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ImageRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/IndicatorViewRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/InnerGestureListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/InnerScaleListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ItemContentView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ItemsViewRenderer_3.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LabelRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LineRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LineView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer_Container.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/LocalizedDigitsKeyListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/MasterDetailContainer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NativeViewWrapperRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NavigationRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NongreedySnapHelper.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NongreedySnapHelper_InitialScrollListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ObjectJavaBox_1.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/OpenGLViewRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/OpenGLViewRenderer_Renderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageContainer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageExtensions_EmbeddedFragment.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageExtensions_EmbeddedSupportFragment.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PageRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PathRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PathView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PickerEditText.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PickerManager_PickerListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PickerRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PlatformRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/Platform_DefaultRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolygonRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolygonView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolylineRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PolylineView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PositionalSmoothScroller.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/PowerSaveModeBroadcastReceiver.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ProgressBarRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RadioButtonRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RectangleRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RectView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RecyclerViewContainer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RefreshViewRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollHelper.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollLayoutManager.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollViewContainer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ScrollViewRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SearchBarRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SelectableItemsViewAdapter_2.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SelectableViewHolder.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShapeRenderer_2.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShapeView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellContentFragment.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutLayout.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRecyclerAdapter.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutTemplatedContentRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellFragmentPagerAdapter.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellItemRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellPageContainer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellRenderer_SplitDrawable.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchViewAdapter.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchViewAdapter_CustomFilter.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchViewAdapter_ObjectWrapper.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchView_ClipDrawableWrapper.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSectionRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellToolbarTracker.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SimpleViewHolder.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SingleSnapHelper.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SizedItemContentView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SliderRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SpacingItemDecoration.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StartSingleSnapHelper.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StartSnapHelper.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StepperRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StepperRendererManager_StepperListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StructuredItemsViewAdapter_2.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StructuredItemsViewRenderer_3.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SwipeViewRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SwitchCellView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/SwitchRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TabbedRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TableViewRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TemplatedItemViewHolder.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TextCellRenderer_TextCellView.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TextViewHolder.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TimePickerRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/TimePickerRendererBase_1.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewRenderer_2.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/VisualElementRenderer_1.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/VisualElementTracker_AttachTracker.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/WebViewRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/WebViewRenderer_JavascriptResult.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/CarouselPageRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FormsFragmentPagerAdapter_1.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FormsViewPager.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FragmentContainer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FrameRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer_ClickListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer_Container.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer_DrawerMultiplexedListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/PickerRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/Platform_ModalContainer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ShellFragmentContainer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/SwitchRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ViewRenderer_2.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/AccelerometerListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ActivityLifecycleContextListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/BarometerListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/BatteryBroadcastReceiver.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ClipboardChangeListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ConnectivityBroadcastReceiver.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/EnergySaverBroadcastReceiver.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/GyroscopeListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/IntermediateActivity.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/Listener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/MagnetometerListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/OrientationSensorListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/SensorListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/SingleLocationListener.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/WebAuthenticatorCallbackActivity.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/WebAuthenticatorIntermediateActivity.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/FloatArrayEvaluator.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/TransitionUtils.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64a25b61d9f8ee364f/TransitionUtils_MatrixEvaluator.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64dda61ef84501c2d9/MainActivity.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64ee486da937c010f4/ButtonRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64ee486da937c010f4/FrameRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64ee486da937c010f4/ImageRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc64ee486da937c010f4/LabelRenderer.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/android/app/ApplicationRegistration.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/android/support/v4/media/session/MediaSessionCompat_OnActiveChangeListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/app/ActionBar_OnMenuVisibilityListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/app/ActionBar_OnNavigationListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/app/ActionBar_TabListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ActionMenuView_OnMenuItemClickListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ContentFrameLayout_OnAttachListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/MenuItemHoverListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/PopupMenu_OnDismissListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/PopupMenu_OnMenuItemClickListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/SearchView_OnCloseListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/SearchView_OnQueryTextListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/SearchView_OnSuggestionListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/Toolbar_OnMenuItemClickListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/appcompat/widget/ViewStubCompat_OnInflateListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/asynclayoutinflater/view/AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/app/SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/os/CancellationSignal_OnCancelListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/accessibility/AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/accessibility/AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/ActionProvider_SubUiVisibilityListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/ActionProvider_VisibilityListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/DragStartHelper_OnDragStartListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/inputmethod/InputConnectionCompat_OnCommitContentListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/MenuItemCompat_OnActionExpandListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/OnApplyWindowInsetsListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/ViewPropertyAnimatorListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/view/ViewPropertyAnimatorUpdateListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/core/widget/NestedScrollView_OnScrollChangeListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/drawerlayout/widget/DrawerLayout_DrawerListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/fragment/app/FragmentManager_OnBackStackChangedListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/loader/content/Loader_OnLoadCanceledListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/loader/content/Loader_OnLoadCompleteListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/AsyncListDiffer_ListListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_OnItemTouchListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/recyclerview/widget/RecyclerView_RecyclerListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/slidingpanelayout/widget/SlidingPaneLayout_PanelSlideListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/swiperefreshlayout/widget/SwipeRefreshLayout_OnRefreshListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/transition/Transition_TransitionListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/viewpager/widget/ViewPager_OnAdapterChangeListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/androidx/viewpager/widget/ViewPager_OnPageChangeListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/appbar/AppBarLayout_OnOffsetChangedListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/behavior/SwipeDismissBehavior_OnDismissListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/bottomnavigation/BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/bottomnavigation/BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/button/MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/button/MaterialButton_OnCheckedChangeListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/card/MaterialCardView_OnCheckedChangeListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/chip/ChipGroup_OnCheckedChangeListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/datepicker/MaterialPickerOnPositiveButtonClickListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/internal/ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/navigation/NavigationView_OnNavigationItemSelectedListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/shape/ShapeAppearancePathProvider_PathListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/tabs/TabLayout_BaseOnTabSelectedListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/textfield/TextInputLayout_OnEditTextAttachedListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/com/google/android/material/textfield/TextInputLayout_OnEndIconChangedListenerImplementor.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/MonoPackageManager_Resources.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/xamarin/essentials/fileProvider.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/bin/packaged_resources
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/com/companyname/babytech/R.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.arm64-v8a.s
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.armeabi-v7a.s
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.x86.s
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.x86_64.s
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.arm64-v8a.o
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.armeabi-v7a.o
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.x86.o
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/typemaps.x86_64.o
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.arm64-v8a.o
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.armeabi-v7a.o
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.x86.o
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/environment.x86_64.o
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.arm64-v8a.o
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.armeabi-v7a.o
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.x86.o
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/compressed_assemblies.x86_64.o
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/app_shared_libraries/arm64-v8a/libxamarin-app.so
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/app_shared_libraries/armeabi-v7a/libxamarin-app.so
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/app_shared_libraries/x86/libxamarin-app.so
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/app_shared_libraries/x86_64/libxamarin-app.so
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/bin/classes.dex
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_CleanIntermediateIfNeeded.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_CompileToDalvik.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_ConvertCustomView.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_ConvertResourcesCases.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Amazon.Extensions.CognitoAuthentication 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.CognitoIdentity 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.CognitoIdentity 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.DynamoDBv2 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.Rekognition 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.S3 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.SecurityToken 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/AWSSDK.SecurityToken 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/BabyTech 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/BabyTech 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/BabyTech.Android 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/BabyTech.Android 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/FormsViewGroup 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/FormsViewGroup 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/machine 2.config
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Microsoft.Bcl.AsyncInterfaces 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Mono.Security 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/netstandard 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.ComponentModel.Composition 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Data.DataSetExtensions 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Data.DataSetExtensions 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Drawing.Common 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.IO.Compression 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.IO.Compression 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Net.Http 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Numerics 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Numerics 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Numerics.Vectors 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Numerics.Vectors 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Runtime 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Runtime.Serialization 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.ServiceModel.Internals 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Threading.Tasks.Extensions 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Transactions 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Transactions 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Web.Services 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Xml.Linq 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/System.Xml.Linq 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Activity 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Activity 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Annotation 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Annotation 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.AppCompatResources 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AppCompat.AppCompatResources 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Common 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Common 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Runtime 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Arch.Core.Runtime 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AsyncLayoutInflater 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.AsyncLayoutInflater 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Browser 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CardView 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CardView 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Collection 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Collection 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CoordinatorLayout 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CoordinatorLayout 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CursorAdapter 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CursorAdapter 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CustomView 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.CustomView 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.DocumentFile 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.DocumentFile 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.DrawerLayout 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.DrawerLayout 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Fragment 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Interpolator 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Interpolator 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.UI 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.UI 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.Utils 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.Core.Utils 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.V4 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Legacy.Support.V4 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Common 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Common 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.Core 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.LiveData.Core 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Runtime 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.Runtime 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModel 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModel 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModelSavedState 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Lifecycle.ViewModelSavedState 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Loader 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Loader 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.LocalBroadcastManager 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.LocalBroadcastManager 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.MultiDex 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.MultiDex 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Print 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Print 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SavedState 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SavedState 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SlidingPaneLayout 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SlidingPaneLayout 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SwipeRefreshLayout 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.SwipeRefreshLayout 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Transition 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.Transition 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.Animated 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VectorDrawable.Animated 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VersionedParcelable 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.VersionedParcelable 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager2 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.AndroidX.ViewPager2 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Essentials 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Core 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml 2.pdb
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/assets/Xamarin.Google.Guava.ListenableFuture 2.dll
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/androidx/savedstate/R 2.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CellRenderer_RendererHolder 2.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper 2.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/mono/android/app/ApplicationRegistration 2.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/android/src/xamarin/essentials/fileProvider 2.java
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_BuildLibraryImportsCache 2.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_CleanIntermediateIfNeeded 2.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_CompileToDalvik 2.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_ConvertCustomView 2.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_ConvertResourcesCases 2.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_GenerateJavaStubs 2.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_GeneratePackageManagerJava 2.stamp
+/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech.Android/obj/Debug/stamp/_ResolveLibraryProjectImports 2.stamp

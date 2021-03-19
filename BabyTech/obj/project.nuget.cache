@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "pHH9HllqFmggX304VR0Z4+hMKvrl0JBSGQ3MeoOhcgD99BBQYwY9kIF380KDx4+Xi2GliEdoOxu4OvNr5yMlMA==",
+  "success": true,
+  "projectFilePath": "/Users/alyssaandrade/Desktop/alpha-scan-main-3/BabyTech/BabyTech.csproj",
+  "expectedPackageFiles": [
+    "/Users/alyssaandrade/.nuget/packages/amazon.extensions.cognitoauthentication/2.0.3/amazon.extensions.cognitoauthentication.2.0.3.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/awssdk.cognitoidentity/3.5.2.6/awssdk.cognitoidentity.3.5.2.6.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/awssdk.cognitoidentityprovider/3.5.1.23/awssdk.cognitoidentityprovider.3.5.1.23.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/awssdk.core/3.5.2.5/awssdk.core.3.5.2.5.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/awssdk.dynamodbv2/3.5.4.24/awssdk.dynamodbv2.3.5.4.24.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/awssdk.rekognition/3.5.2.38/awssdk.rekognition.3.5.2.38.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/awssdk.s3/3.5.8/awssdk.s3.3.5.8.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/awssdk.securitytoken/3.5.1.45/awssdk.securitytoken.3.5.1.45.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/newtonsoft.json/13.0.1-beta1/newtonsoft.json.13.0.1-beta1.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/alyssaandrade/.nuget/packages/xamarin.forms/5.0.0.1931/xamarin.forms.5.0.0.1931.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BabyTech.Pages.PatientInfoPage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" Padding="5">
+            <Label Text="Patient Information" FontSize="25" TextColor="#00C5FA"></Label>
+            <StackLayout Orientation="Horizontal">
+                <Entry x:Name="firstNameField" Text="{Binding FirstName}" Placeholder="First Name"></Entry>
+                <Entry x:Name="lastNameField" Text="{Binding LastName}" Placeholder="Last Name"></Entry>
+            </StackLayout>
+            <Entry Text="{Binding IdentificationNumber}" Placeholder="Identification Number"></Entry>
+            <Entry Text="{Binding StreetAddress}" Placeholder="Street Address"></Entry>
+            <Entry Text="{Binding City}" Placeholder="City"></Entry>
+            <Entry Text="{Binding State}" Placeholder="State"></Entry>
+            <Entry Text="{Binding Country}" Placeholder="Country"></Entry>
+            <Entry Text="{Binding HospitalName}" Placeholder="Hospital Name"></Entry>
+            <Editor Text="{Binding Observations}" Placeholder="Write any observations..."></Editor>
+                <Picker   x:Name="GenderPicker" Title="Select gender..." SelectedItem="{Binding Gender}">
+
+          
+
+            </Picker>
+            <Button Text="Register Case" BackgroundColor="#00C5FA" TextColor="#FFF" Command="{Binding SaveCommand}"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

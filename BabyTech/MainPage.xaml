@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BabyTech.MainPage">
+
+
+    <StackLayout BackgroundColor="White" Padding="60" VerticalOptions="Center">
+        <Label Text="α-scan" FontSize="30" TextColor="#00C5FA" HorizontalTextAlignment="Center" />
+        <Image Source="logo.jpg" />
+        <Button Text="Login" BackgroundColor="#00C5FA" TextColor="#FFF" FontSize="18" Clicked="LoginButton_OnClicked">
+        </Button>
+        <Button Text="Sign Up" BackgroundColor="#00C5FA" TextColor="#FFF" FontSize="18" Clicked="SignUpButton_OnClicked">
+        </Button>
+    </StackLayout>
+    
+           
+        
+
+</ContentPage>

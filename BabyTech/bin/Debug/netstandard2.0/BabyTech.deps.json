@@ -1,0 +1,325 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "BabyTech/1.0.0": {
+        "dependencies": {
+          "AWSSDK.CognitoIdentity": "3.5.2.6",
+          "AWSSDK.CognitoIdentityProvider": "3.5.1.23",
+          "AWSSDK.Core": "3.5.2.5",
+          "AWSSDK.DynamoDBv2": "3.5.4.24",
+          "AWSSDK.Rekognition": "3.5.2.38",
+          "AWSSDK.S3": "3.5.8",
+          "Amazon.Extensions.CognitoAuthentication": "2.0.3",
+          "NETStandard.Library": "2.0.3",
+          "Newtonsoft.Json": "13.0.1-beta1",
+          "Xamarin.Essentials": "1.6.1",
+          "Xamarin.Forms": "5.0.0.1931"
+        },
+        "runtime": {
+          "BabyTech.dll": {}
+        }
+      },
+      "Amazon.Extensions.CognitoAuthentication/2.0.3": {
+        "dependencies": {
+          "AWSSDK.CognitoIdentity": "3.5.2.6",
+          "AWSSDK.CognitoIdentityProvider": "3.5.1.23"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Amazon.Extensions.CognitoAuthentication.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.CognitoIdentity/3.5.2.6": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.2.5",
+          "AWSSDK.SecurityToken": "3.5.1.45"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.CognitoIdentity.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.2.6"
+          }
+        }
+      },
+      "AWSSDK.CognitoIdentityProvider/3.5.1.23": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.2.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.CognitoIdentityProvider.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.1.23"
+          }
+        }
+      },
+      "AWSSDK.Core/3.5.2.5": {
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.2.5"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.5.4.24": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.2.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.4.24"
+          }
+        }
+      },
+      "AWSSDK.Rekognition/3.5.2.38": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.2.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Rekognition.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.2.38"
+          }
+        }
+      },
+      "AWSSDK.S3/3.5.8": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.2.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.8.0"
+          }
+        }
+      },
+      "AWSSDK.SecurityToken/3.5.1.45": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.2.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SecurityToken.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.1.45"
+          }
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Newtonsoft.Json/13.0.1-beta1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25331"
+          }
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Numerics.Vectors.dll": {
+            "assemblyVersion": "4.1.4.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+        "runtime": {
+          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.4.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        }
+      },
+      "System.Threading.Tasks.Extensions/4.5.2": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.6.27129.4"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.6.1": {
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/5.0.0.1931": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.616"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.616"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.616"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BabyTech/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Extensions.CognitoAuthentication/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uDLfjF5Z5bzQl8dYhSzvugOzVOFi8ohmp8ldZCi2gS3zDskY5dmKXPY4w23Q2nZ36z7ZUsT5K7HLT8aNhkhZEg==",
+      "path": "amazon.extensions.cognitoauthentication/2.0.3",
+      "hashPath": "amazon.extensions.cognitoauthentication.2.0.3.nupkg.sha512"
+    },
+    "AWSSDK.CognitoIdentity/3.5.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-epQD9cA5JbI7pDXDGnj8tgQRpFcEpaVoCDIG/okfIUnBfhvZKjC2Uz5BN9jfQdM6vL87b7sqEEb0xKJyAU7NNQ==",
+      "path": "awssdk.cognitoidentity/3.5.2.6",
+      "hashPath": "awssdk.cognitoidentity.3.5.2.6.nupkg.sha512"
+    },
+    "AWSSDK.CognitoIdentityProvider/3.5.1.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BLQYIUBvuPuP8O+c/4IoYIThX/JUOOUSBYDvvMa2xsa1T3uIn1JZpPHKzHZU3g+ylNxmCBIzYdsn27bbmb74RA==",
+      "path": "awssdk.cognitoidentityprovider/3.5.1.23",
+      "hashPath": "awssdk.cognitoidentityprovider.3.5.1.23.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.5.2.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mt/KXCxWOutWiOWyf/a/3LH9nsexqdIj55DSy4sePUUWUzDPm09QRFcHcDNDS5qVzr4kk2TBiqgQnWSVHUtCMA==",
+      "path": "awssdk.core/3.5.2.5",
+      "hashPath": "awssdk.core.3.5.2.5.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.5.4.24": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QVs/7fa0X77EjLzaTCoQFP+zuelEKbyYmVNhdWZooni9NqLAsQ0J+6TNGp7voK3GxCwRi5l2zLd/6/XaBY0Y7w==",
+      "path": "awssdk.dynamodbv2/3.5.4.24",
+      "hashPath": "awssdk.dynamodbv2.3.5.4.24.nupkg.sha512"
+    },
+    "AWSSDK.Rekognition/3.5.2.38": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yRyKrEz6ciE+/F9XcHMDLfGZ81KvcWEgNpZeaJYIeme/uWqA6WxcdeWotbr7BCqHniQV6dpBLA18LR467eC0pg==",
+      "path": "awssdk.rekognition/3.5.2.38",
+      "hashPath": "awssdk.rekognition.3.5.2.38.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.5.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5S/EXknQmUjK7mE5fR32CnIWTNa8ySFQgE3Jq3MRLXPajvALK1Zz5nX1JP1zQd8IE4Q12OTyJKKxgnjyp5nMDg==",
+      "path": "awssdk.s3/3.5.8",
+      "hashPath": "awssdk.s3.3.5.8.nupkg.sha512"
+    },
+    "AWSSDK.SecurityToken/3.5.1.45": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-idIeyWNeB2sYgha8VpV0FxMU4NBheEu1WOGhNsylTFv19lUyuwKgBURQaMeIndxuQjBkCSa+UjkyMUlXjTU9uw==",
+      "path": "awssdk.securitytoken/3.5.1.45",
+      "hashPath": "awssdk.securitytoken.3.5.1.45.nupkg.sha512"
+    },
+    "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1Am6l4Vpn3/K32daEqZI+FFr96OlZkgwK2LcT3pZ2zWubR5zTPW3/FkO1Rat9kb7oQOa4rxgl9LJHc5tspCWfg==",
+      "path": "microsoft.bcl.asyncinterfaces/1.1.0",
+      "hashPath": "microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1-beta1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XqyEqeyn0RVaYpgwbpTw6Es1rFJIa/BHn8TNv2V6KkxRFohfwzN1e9z2THfOXnRoI51vREtNE5GfQ6LND9m1Kg==",
+      "path": "newtonsoft.json/13.0.1-beta1",
+      "hashPath": "newtonsoft.json.13.0.1-beta1.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Extensions/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BG/TNxDFv0svAzx8OiMXDlsHfGw623BZ8tCXw4YLhDFDvDhNUEV58jKYMGRnkbJNm7c3JNNJDiN7JBMzxRBR2w==",
+      "path": "system.threading.tasks.extensions/4.5.2",
+      "hashPath": "system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+    },
+    "Xamarin.Essentials/1.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gG1Bp4j4bpJQ0dp9MeBJQJ9c8xULauIlhc7Cx5Qw4J2K1c+4Glq5n+gkb9Pm0UA/CevXVqLK5ZXmZkuYI52FgA==",
+      "path": "xamarin.essentials/1.6.1",
+      "hashPath": "xamarin.essentials.1.6.1.nupkg.sha512"
+    },
+    "Xamarin.Forms/5.0.0.1931": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5xe9Oxtx2lHC0pinXGRLoUMEav3qxdtNemDF1UxCcxHcwv/Zcso2LhYw1LnemYhtESa6QGOD8dGM31A2pmteVg==",
+      "path": "xamarin.forms/5.0.0.1931",
+      "hashPath": "xamarin.forms.5.0.0.1931.nupkg.sha512"
+    }
+  }
+}

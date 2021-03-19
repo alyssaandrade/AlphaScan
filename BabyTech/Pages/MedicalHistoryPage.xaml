@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BabyTech.Pages.MedicalHistoryPage">
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout VerticalOptions="CenterAndExpand" Padding="5">
+            <StackLayout Orientation="Vertical">
+                    <Label Text="Family Medical History" FontSize="25" TextColor="#00C5FA" />
+                    <Label Text="Any complications during birth" FontSize="18"></Label>
+                    <Switch IsToggled="{Binding BirthComplications}"/>
+                    <Label Text="Family history of genetic disorders" FontSize="18"></Label>
+                    <Switch IsToggled="{Binding GeneticDisorders}"/>
+                    <Label Text="Family history of chromosomal abnormalities" FontSize="18"></Label>
+                    <Switch IsToggled="{Binding ChromosomalAbnormalities}"/>
+                    <Label Text="Any medical issues among siblings" FontSize="18"></Label>
+                    <Switch IsToggled="{Binding SiblingMedicalIssues}"/>
+                    <Label Text="Medical issues among family" FontSize="18"></Label>
+                    <Switch IsToggled="{Binding FamilyMedicalIssues}"/>
+                    <Label Text="History of surgeries" FontSize="18"></Label>
+                    <Switch IsToggled="{Binding SurgeryHistory}"/>
+                    <Label Text="Does the child have any allergies" FontSize="18"></Label>
+                    <Switch IsToggled="{Binding Allergies}"/>
+                    <Label Text="Mother over the age of 35" FontSize="18"></Label>
+                    <Switch IsToggled="{Binding MotherOver35}"/>
+                    <Label Text="Father over the age of 40" FontSize="18"></Label>
+                    <Switch IsToggled="{Binding FatherOver40}"/>
+                    <Label Text="Previous history of miscarraige" FontSize="18"></Label>
+                    <Switch IsToggled="{Binding PreviousMiscarraige}"/>
+                    <Label Text="Exposure to toxic chemicals/ x-rays" FontSize="18"></Label>
+                    <Switch IsToggled="{Binding Exposure}"/>
+                    <Label Text="Drug or alcohol history" FontSize="18"></Label>
+                    <Switch IsToggled="{Binding DrugsOrAlcohol}"/>
+                    <Label Text="Diabetes during pregnancy" FontSize="18"></Label>
+                    <Switch IsToggled="{Binding Diabetes}"/>
+                    <Label Text="Has ever taken isotretinoin or accutane" FontSize="18"></Label>
+                    <Switch IsToggled="{Binding AccutaneUse}"/>
+                </StackLayout>
+                <Button Text="NEXT" Command="{Binding SaveCommand}" BackgroundColor="#00C5FA" TextColor="#FFF"></Button>
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

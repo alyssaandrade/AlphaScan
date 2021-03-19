@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BabyTech.Pages.SignUpPage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" Padding="5">
+            <StackLayout Orientation="Horizontal">
+                <Entry Placeholder="First Name" Text="{Binding FirstName}" x:Name="firstNameField"></Entry>
+                <Entry Placeholder="Last Name" Text="{Binding LastName}" x:Name="lastNameField"></Entry>
+            </StackLayout>
+            <Entry Placeholder="Email" Text="{Binding Username}" x:Name="emailField"></Entry>
+            <Entry Placeholder="Healthcare Company"></Entry>
+            <Entry Placeholder="Profession"></Entry>
+            <Entry Placeholder="Nation"></Entry>
+            <Entry Placeholder="Password" IsPassword="True" Text="{Binding Password}" x:Name="passwordField"></Entry>
+            <Entry Placeholder="Confirm Password" IsPassword="True" Text="{Binding ConfirmPassword}" x:Name="confirmPasswordField"></Entry>
+            <Button Text="Sign Up" Command="{Binding SignUpCommand}" BackgroundColor="#00C5FA" TextColor="White"></Button>
+            <Button Text="Already have an account? Sign In" Clicked="SignIn_Clicked" BackgroundColor="#00C5FA" TextColor="White"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+    
